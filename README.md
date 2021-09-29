@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thombreankita
+- 👋 Hi, I’m @ankita
 - 👀 I’m interested in java,SQL.
 - 💞️ I’m looking to collaborate on Java Projects.
 - 📫 LinkedIn : www.linkedin.com/in/ankita-thombre
