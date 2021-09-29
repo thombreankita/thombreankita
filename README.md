@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thombreankita
 - 👀 I’m interested in java,SQL.
-- 🌱 I’m currently learning Python and ML.
 - 💞️ I’m looking to collaborate on Java Projects.
 - 📫 LinkedIn : www.linkedin.com/in/ankita-thombre
       Mail : thombreankita29@gmail.com
