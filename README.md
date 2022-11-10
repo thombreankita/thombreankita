@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankita
 - 👀 I’m interested in java,SQL.
-- 💞️ I’m looking to collaborate on Java Projects.
+- 💞️ I’m looking to collaborate on Projects with new technologie
 - 📫 LinkedIn : www.linkedin.com/in/ankita-thombre
       Mail : thombreankita29@gmail.com
 
